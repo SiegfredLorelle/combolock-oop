@@ -12,5 +12,4 @@ a.turnRight(9)
 a.turnLeft(24)
 a.turnRight(17)
 a.open()
-# a.turn
 
